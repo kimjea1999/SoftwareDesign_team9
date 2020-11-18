@@ -10,7 +10,7 @@ import androidx.appcompat.widget.Toolbar;
 
 import android.view.View;
 
-public class TEST_Act extends AppCompatActivity {
+public class TEST_Act extends AppCompatActivity {   //2o2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,4 +30,4 @@ public class TEST_Act extends AppCompatActivity {
     }
 }
 
-//will be uploaded
+//will be uploaded....
